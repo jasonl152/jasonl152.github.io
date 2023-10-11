@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
 
 .grad {
-  background-image: linear-gradient(height:100%,rgb(97,221,255),rgb(200,221,255));
+  background-image: linear-gradient(rgb(97,221,255),rgb(200,221,255));
+  height: 100%;
 }
 
 h1 {
