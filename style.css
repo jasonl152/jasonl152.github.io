@@ -16,3 +16,10 @@ p {
 div {
   font-family: 'Inter', sans-serif;
 }
+
+div > a {
+  color:rgb(101,141,175);
+  font-size:20%;
+  margin:30px;
+  padding:30px;
+}
