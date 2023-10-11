@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
 
-body {
+#grad {
   background-image: linear-gradient(rgb(97,221,255),rgb(200,221,255));
 }
 
