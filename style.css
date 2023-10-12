@@ -20,5 +20,5 @@ div {
 div > a {
   color:rgb(100,121,155);
   font-size:50px;
-  padding:25%;
+  margin:25%;
 }
