@@ -4,6 +4,11 @@
   background-color:rgb(200,221,255);
 }
 
+#bottom-tab {
+  margin-top:100px;
+  display:flex;
+}
+
 h1 {
   font-family: 'Inter', sans-serif;
   text-align: center;
