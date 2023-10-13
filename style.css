@@ -10,6 +10,14 @@
   width:100%;
 }
 
+#center-align {
+  width:17.5vh;
+}
+
+#center-align-home {
+  width:22.5vh;
+}
+
 body {
   font-family: 'Inter', sans-serif;
 }
