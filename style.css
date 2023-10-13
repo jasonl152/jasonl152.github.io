@@ -7,13 +7,15 @@
 #bottom-tab {
   margin-top:250px;
   display:flex;
-  width:100%;
+  background-color:rgb(160,181,215);
+  margin-left:0 auto;
+  margin-right:0 auto;
+  width:70vw;
 }
 
 #bottom-tab-home {
   margin-top:250px;
   display:flex;
-  width:100%;
   background-color:rgb(160,181,215);
   margin-left:0 auto;
   margin-right:0 auto;
