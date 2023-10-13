@@ -10,6 +10,12 @@
   width:100%;
 }
 
+#bottom-tab-home {
+  margin-top:250px;
+  display:flex;
+  width:100%;
+}
+
 #center-align {
   width:23.3333333333vh;
 }
